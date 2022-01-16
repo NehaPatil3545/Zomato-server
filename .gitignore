@@ -1,0 +1,6 @@
+node_modules/
+yarn.*
+server/.env
+.env
+*.env
+server/env
